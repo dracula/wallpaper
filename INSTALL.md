@@ -111,3 +111,9 @@ Get all wallpapers via [GitHub .zip download](https://github.com/dracula/wallpap
 <a download href="https://raw.githubusercontent.com/dracula/wallpaper/master/void.png">
 	<img src="https://raw.githubusercontent.com/dracula/wallpaper/master/void.png" alt="Void Linux" width="840" height="473">
 </a>
+
+#### [Xubuntu](https://xubuntu.org)
+
+<a download href="https://raw.githubusercontent.com/dracula/wallpaper/master/xubuntu.png">
+	<img src="https://raw.githubusercontent.com/dracula/wallpaper/master/xubuntu.png" alt="Xubuntu" width="840" height="473">
+</a>
