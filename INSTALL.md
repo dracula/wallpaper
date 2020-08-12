@@ -10,6 +10,24 @@ Get all wallpapers via [GitHub .zip download](https://github.com/dracula/wallpap
 	<img src="https://raw.githubusercontent.com/dracula/wallpaper/master/base.png" alt="General" width="840" height="473">
 </a>
 
+#### [Linux](https://www.linux.org)
+
+<a download href="https://raw.githubusercontent.com/dracula/wallpaper/master/linux.png">
+	<img src="https://raw.githubusercontent.com/dracula/wallpaper/master/linux.png" alt="Linux" width="840" height="473">
+</a>
+
+#### [macOS](https://www.apple.com/macos)
+
+<a download href="https://raw.githubusercontent.com/dracula/wallpaper/master/macos.png">
+	<img src="https://raw.githubusercontent.com/dracula/wallpaper/master/macos.png" alt="macOS" width="840" height="473">
+</a>
+
+#### [Windows](https://www.microsoft.com/en-us/windows)
+
+<a download href="https://raw.githubusercontent.com/dracula/wallpaper/master/windows.png">
+	<img src="https://raw.githubusercontent.com/dracula/wallpaper/master/windows.png" alt="Windows" width="840" height="473">
+</a>
+
 #### [Android](https://www.android.com)
 
 <a download href="https://raw.githubusercontent.com/dracula/wallpaper/master/android-1.png">
@@ -44,12 +62,6 @@ Get all wallpapers via [GitHub .zip download](https://github.com/dracula/wallpap
 
 <a download href="https://raw.githubusercontent.com/dracula/wallpaper/master/kde.png">
 	<img src="https://raw.githubusercontent.com/dracula/wallpaper/master/kde.png" alt="KDE" width="840" height="473">
-</a>
-
-#### [Linux](https://www.linux.org)
-
-<a download href="https://raw.githubusercontent.com/dracula/wallpaper/master/linux.png">
-	<img src="https://raw.githubusercontent.com/dracula/wallpaper/master/linux.png" alt="Linux" width="840" height="473">
 </a>
 
 #### [Manjaro](https://manjaro.org)
@@ -98,10 +110,4 @@ Get all wallpapers via [GitHub .zip download](https://github.com/dracula/wallpap
 
 <a download href="https://raw.githubusercontent.com/dracula/wallpaper/master/void.png">
 	<img src="https://raw.githubusercontent.com/dracula/wallpaper/master/void.png" alt="Void Linux" width="840" height="473">
-</a>
-
-#### [Windows](https://www.microsoft.com/en-us/windows)
-
-<a download href="https://raw.githubusercontent.com/dracula/wallpaper/master/windows.png">
-	<img src="https://raw.githubusercontent.com/dracula/wallpaper/master/windows.png" alt="Windows" width="840" height="473">
 </a>
