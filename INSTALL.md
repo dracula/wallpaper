@@ -52,6 +52,12 @@ Get all wallpapers via [GitHub .zip download](https://github.com/dracula/wallpap
 	<img src="https://raw.githubusercontent.com/dracula/wallpaper/master/debian.png" alt="Debian" width="840" height="473">
 </a>
 
+#### [elementary OS](https://elementary.io)
+
+<a download href="https://raw.githubusercontent.com/dracula/wallpaper/master/elementary.png">
+	<img src="https://raw.githubusercontent.com/dracula/wallpaper/master/elementary.png" alt="elementary OS" width="840" height="473">
+</a>
+
 #### [Gentoo Linux](https://www.gentoo.org)
 
 <a download href="https://raw.githubusercontent.com/dracula/wallpaper/master/gentoo.png">
