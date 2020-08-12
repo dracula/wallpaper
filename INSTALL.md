@@ -106,10 +106,16 @@ Get all wallpapers via [GitHub .zip download](https://github.com/dracula/wallpap
 	<img src="https://raw.githubusercontent.com/dracula/wallpaper/master/ubuntu-1.png" alt="Ubuntu" width="840" height="473">
 </a>
 
-#### [Ubuntu Budgie](https://ubuntubudgie.org/)
+#### [Ubuntu Budgie](https://ubuntubudgie.org)
 
 <a download href="https://raw.githubusercontent.com/dracula/wallpaper/master/ubuntu-budgie.png">
 	<img src="https://raw.githubusercontent.com/dracula/wallpaper/master/ubuntu-budgie.png" alt="Ubuntu Budgie" width="840" height="473">
+</a>
+
+#### [Ubuntu MATE](https://ubuntu-mate.org)
+
+<a download href="https://raw.githubusercontent.com/dracula/wallpaper/master/ubuntu-mate.png">
+	<img src="https://raw.githubusercontent.com/dracula/wallpaper/master/ubuntu-mate.png" alt="Ubuntu MATE" width="840" height="473">
 </a>
 
 #### [Void Linux](https://voidlinux.org)
