@@ -82,6 +82,12 @@ Get all wallpapers via [GitHub .zip download](https://github.com/dracula/wallpap
 	<img src="https://raw.githubusercontent.com/dracula/wallpaper/master/mint.png" alt="Linux Mint" width="840" height="473">
 </a>
 
+#### [MX Linux](https://mxlinux.org)
+
+<a download href="https://raw.githubusercontent.com/dracula/wallpaper/master/mx-linux.png">
+	<img src="https://raw.githubusercontent.com/dracula/wallpaper/master/mx-linux.png" alt="MX Linux" width="840" height="473">
+</a>
+
 #### [openSUSE](https://www.opensuse.org)
 
 <a download href="https://raw.githubusercontent.com/dracula/wallpaper/master/opensuse.png">
