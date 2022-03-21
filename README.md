@@ -14,9 +14,15 @@ These wallpapers were created by [kajwski](https://www.reddit.com/r/unixporn/com
 
 These wallpapers are maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/marp/graphs/contributors).
 
-[![Brandon Reyes](https://avatars2.githubusercontent.com/u/69567027?v=v&s=70)](https://github.com/brandon-irs) |
---- |
-[](https://github.com/brandon-irs) |
+| [![Brandon Reyes](https://avatars2.githubusercontent.com/u/69567027?v=v&s=70)](https://github.com/brandon-irs) |
+| -------------------------------------------------------------------------------------------------------------- |
+| [Brandon Reyes](https://github.com/brandon-irs)                                                                |
+
+## Community
+
+- [Twitter](https://twitter.com/draculatheme) - Best for getting updates about themes and new stuff.
+- [GitHub](https://github.com/dracula/dracula-theme/discussions) - Best for asking questions and discussing issues.
+- [Discord](https://draculatheme.com/discord-invite) - Best for hanging out with the community.
 
 ## License
 
