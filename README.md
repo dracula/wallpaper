@@ -2,7 +2,7 @@
 
 > Awesome wallpapers with the theme and colors of Dracula Theme!
 
-![Screenshot](./first-collection/screenshot.png)
+![Screenshot](./screenshot.png)
 
 ## Install
 
