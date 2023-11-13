@@ -10,4 +10,13 @@ git clone https://github.com/dracula/wallpaper.git
 
 ```
 
+#### Install using [Homebrew](https://brew.sh)
+
+Easily install from [dracula/homebrew-install](https://github.com/dracula/homebrew-install):
+
+```sh
+brew tap dracula/install
+brew install --cask dracula-wallpaper
+```
+
 There are two collections, separated into folders with their respective names.
